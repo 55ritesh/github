@@ -8,3 +8,4 @@ Inform about who,what,when,why changes have been made.
 changes are stored in database along with timestamp
 code is in local system
 dis(Project can be lost if your hard disk is corrupted.)
+![work-model](C:\Users\dell\Pictures\Screenshots\Screenshot (371).png)
